@@ -44,14 +44,14 @@
           <entry key="flake8" value="68" />
           <entry key="py" value="2315" />
           <entry key="txt" value="84" />
-          <entry key="yml" value="556" />
+          <entry key="yml" value="557" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="435" />
           <entry key="Python" value="2315" />
-          <entry key="YAML" value="556" />
+          <entry key="YAML" value="557" />
         </counts>
       </usages-collector>
     </session>
